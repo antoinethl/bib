@@ -1,0 +1,806 @@
+[{
+  "name": "Les Jardins du Léman",
+  "location": "Grande-Rue, Yvoire, 74140, France",
+  "link": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/yvoire/restaurant/les-jardins-du-leman/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nFéra fumée, crème de petits pois et émulsion à l'ail noir\nCochon des montagnes, sauce aigre-douce au piment d'Espelette, légumes glacés et polenta\nTartelette sablée, ganache yuzu et sorbet citron\n\n",
+  "num": "0450728032"
+},{
+  "name": "La Maison de Marie",
+  "location": "24 rue Gabriel-Vicaire, Perros-Guirec, 22700, France",
+  "link": "https://guide.michelin.com/fr/fr/bretagne/perros-guirec/restaurant/la-maison-de-marie/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nTerrine de poulet, pickles de légumes\nMerlu à l'oseille du jardin, légumes de saison\nBaba au rhum, coulis de mangue, sorbet piña colada\n\n",
+  "num": "0296490596"
+},{
+  "name": "So",
+  "location": "15 rueAmiral-Roussin, Dijon, 21000, France",
+  "link": "https://guide.michelin.com/fr/fr/bourgogne-franche-comte/dijon/restaurant/so/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nCuisine du marché\n\n",
+  "num": "0380300385"
+},{
+  "name": "Le Manoir du Sphinx",
+  "location": "67 chemin de la Messe, Perros-Guirec, 22700, France",
+  "link": "https://guide.michelin.com/fr/fr/bretagne/perros-guirec/restaurant/le-manoir-du-sphinx/",
+  "comfort": "Confortable. Nos établissements de charme.",
+  "specialities": "\nSpécialités\n\nSaumon confit aux herbes, condiment concombre\nLieu jaune, quinoa aux agrumes\nChocotonka\n\n",
+  "num": "0296232542"
+},{
+  "name": "Racine",
+  "location": "1 rue du Chapeau-Rouge, impasse Charavay, Lyon, 69009, France",
+  "link": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/lyon/restaurant/racine900057/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nGravlax de bœuf charolais\nBœuf fondant, jus corsé, et légumes de saison\nSphère chocolat, noisettes et confiture de lait\n\n",
+  "num": "0426185715"
+},{
+  "name": "Julien",
+  "location": "Route de Strasbourg, Fouday, 67130, France",
+  "link": "https://guide.michelin.com/fr/fr/grand-est/fouday/restaurant/julien/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nNems de gambas, sweet sauce chili\nMillefeuille de bœuf et foie gras poêlé, sauce bordelaise\nParis-brest via Fouday\n\n",
+  "num": "0388973009"
+},{
+  "name": "Le Bellevue",
+  "location": "1 avenue des Pyrénées, Lacroix-Falgarde, 31120, France",
+  "link": "https://guide.michelin.com/fr/fr/occitanie/lacroix-falgarde/restaurant/le-bellevue8982/",
+  "comfort": "Confortable",
+  "specialities": "\n\nEngagement pour une gastronomie durable\n\n\nInitiatives :\n\npotager (légumes, herbes aromatiques)\n compostage\n\n\nSpécialités\n\nCarpaccio de poulpe, yuzu\nFilet de dorade, tagliatelles de courgette, pesto de roquette\nSoufflé au Grand Marnier\n\n",
+  "num": "0561769497"
+},{
+  "name": "Le Chalet",
+  "location": "4 avenue Durandeau, Ax-les-Thermes, 09110, France",
+  "link": "https://guide.michelin.com/fr/fr/occitanie/ax-les-thermes/restaurant/le-chalet123050/",
+  "comfort": "Confortable",
+  "specialities": "\n\nEngagement pour une gastronomie durable\n\n\nInitiatives :\n\nproduits locaux et de saison depuis 20 ans\n\n\nSpécialités\n\nTartiflette ariégeoise et jambon maison\nRis de veau laqué, piperade et harissa\nCup choco-framboise, sorbet framboise-poivron\n\n",
+  "num": "0561642431"
+},{
+  "name": "La Bonne Auberge",
+  "location": "63 Route Nationale, Dury, 80480, France",
+  "link": "https://guide.michelin.com/fr/fr/hauts-de-france/dury/restaurant/la-bonne-auberge221/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nSaumon cuit à basse température, beurre blanc\nFilet de bœuf façon Rossini, cacahouètes grillées et chou-fleur\nAbricot et lavande\n\n",
+  "num": "0322950333"
+},{
+  "name": "Le Petit St-Thomas",
+  "location": "25 rue de Lattre-de-Tassigny, La Garnache, 85710, France",
+  "link": "https://guide.michelin.com/fr/fr/pays-de-la-loire/la-garnache/restaurant/le-petit-st-thomas/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nVelouté de betterave, effiloché de bœuf au foie gras\nBallottine de volaille, pleurotes, céréales et jus corsé\nBousât maraîchin (fondant au chocolat), glace vanille\n\n",
+  "num": "0251490599"
+},{
+  "name": "Cabane",
+  "location": "8 rue du Docteur-Foucault, Nanterre, 92000, France",
+  "link": "https://guide.michelin.com/fr/fr/ile-de-france/nanterre/restaurant/cabane/",
+  "comfort": "Assez confortable",
+  "specialities": "\n\nEngagement pour une gastronomie durable\n\n\nInitiatives :\n\nproduits locaux (maraîchers du 92)\n utilisation du produit dans son intégralité\n\n\nSpécialités\n\nPâté en croûte de canard, betterave et mélasse de grenade\nMagret de canard rôti à la sarriette et tatin de tomate\nTarte aux figues confites, glace yaourt\n\n",
+  "num": "0147252251"
+},{
+  "name": "Au Vieux Moulin",
+  "location": "7 rue du Vieux-Moulin, Graufthal, 67320, France",
+  "link": "https://guide.michelin.com/fr/fr/grand-est/graufthal/restaurant/au-vieux-moulin/",
+  "comfort": "Confortable",
+  "specialities": "\n\nEngagement pour une gastronomie durable\n\n\nInitiatives :\n\nproduits locaux (légumes, yaourt, œufs, foie gras, volaille, poissons d'élevage en eau douce…)\n tri avancé des déchets\n\n\nSpécialités\n\nTartare de bœuf au miso, huîtres, daïkon mariné et bourgeons d’épicéa au vinaigre\nTruite blanche dans l’idée d’un borchtch, sarrasin grillé, bibeleskas et raifort\nTarte tiède aux mirabelles, glace vanille au lait de chèvre\n\n",
+  "num": "0388701728"
+},{
+  "name": "Winstub du Chambard",
+  "location": "9-13 rue du Général-de-Gaulle, Kaysersberg, 68240, France",
+  "link": "https://guide.michelin.com/fr/fr/grand-est/kaysersberg/restaurant/winstub-du-chambard/",
+  "comfort": "Assez confortable. Nos établissements de charme.",
+  "specialities": "\nSpécialités\n\nLa terrine de foie gras d’Oie aux fruits du Berawecka\nLa Choucroute royale du Chambard, servie au plat (9 garnitures)\nLe filet de truite de la ferme Guidat, en matelote, fondue de poireaux et nouilles\nLe Kougelhopf glacé au Marc de Gewurztraminer\n\n",
+  "num": "0389471017"
+},{
+  "name": "33 Cité",
+  "location": "33 quai Charles-de-Gaulle, Lyon, 69006, France",
+  "link": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/lyon/restaurant/33-cite/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nPâté en croûte de lapin et foie gras de canard\nTajine de volaille fermière\nVacherin minute vanille-fraise\n\n",
+  "num": "0437454545"
+},{
+  "name": "Grain de Sel",
+  "location": "67 rue Pasteur, Dole, 39100, France",
+  "link": "https://guide.michelin.com/fr/fr/bourgogne-franche-comte/dole/restaurant/grain-de-sel407331/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nFoie gras au fil des saisons\nRis de veau\nTarte au citron revisitée\n\n",
+  "num": "0384719736"
+},{
+  "name": "Au Cheval Blanc",
+  "location": "11 rue Principale, Niedersteinbach, 67510, France",
+  "link": "https://guide.michelin.com/fr/fr/grand-est/niedersteinbach/restaurant/au-cheval-blanc12113/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nCarpaccio de bœuf\nTruite au riesling\nViolon 3 chocolats\n\n",
+  "num": "0388095531"
+},{
+  "name": "Auberge de la Rivière",
+  "location": "rue du Port-de-la-Fouarne, Velluire, 85770, France",
+  "link": "https://guide.michelin.com/fr/fr/pays-de-la-loire/velluire/restaurant/auberge-de-la-riviere/",
+  "comfort": "Très confortable",
+  "specialities": "\n\nEngagement pour une gastronomie durable\n\n\nInitiatives :\n\ncultivation d'une partie des légumes\n produits locaux\n déchets végétaux compostés\n\n\nSpécialités\n\nRaviole croustillante d'escargots de Vendée comme un beignet\nFilet de canette, shiitake et tombée de fruits rouges\nDouceur autour du chocolat\n\n",
+  "num": "0251523215"
+},{
+  "name": "Les Canailles Ménilmontant",
+  "location": "15 rue des Panoyaux, Paris, 75020, France",
+  "link": "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/les-canailles-menilmontant/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nCarpaccio de langue de bœuf tiède, sauce gribiche\nQuasi de veau rôti au thym, shiitaké et céleri\nBaba au rhum, chantilly au citron vert\n\n",
+  "num": "0143584545"
+},{
+  "name": "La Chaumière",
+  "location": "2 rue Paul-Lasnier, Aubigny-sur-Nère, 18700, France",
+  "link": "https://guide.michelin.com/fr/fr/centre-val-de-loire/aubigny-sur-nre/restaurant/la-chaumiere10018/",
+  "comfort": "Confortable. Nos établissements de charme.",
+  "specialities": "\nSpécialités\n\nWrap berrichon aux lentilles vertes et crottin de Chavignol\nCivet de sanglier, légumes d'automne\nParis-aubigny, crème légère au safran et fraises\n\n",
+  "num": "0248580401"
+},{
+  "name": "La Closerie des Roses",
+  "location": "455 La Haute-Meilleraie, Varades, 44370, France",
+  "link": "https://guide.michelin.com/fr/fr/pays-de-la-loire/varades/restaurant/la-closerie-des-roses/",
+  "comfort": "Confortable. Nos établissements de charme.",
+  "specialities": "\nSpécialités\n\nFraîcheur de crabe, rémoulade aux herbes\nCroustillant de cabillaud à l'embeurrée de choux et beurre blanc\nMeringue soufflée aux fraises du Val de Loire\n\n",
+  "num": "0240983330"
+},{
+  "name": "La Taverne Alsacienne",
+  "location": "99 rue de la République, Ingersheim, 68040, France",
+  "link": "https://guide.michelin.com/fr/fr/grand-est/ingersheim/restaurant/la-taverne-alsacienne/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nTerrine de canard au foie gras\nCassolette de la mer, choucroute et sauce riesling\nVacherin minute\n\n",
+  "num": "0389270841"
+},{
+  "name": "Le Saint-Jacques",
+  "location": "Place du Monument, Thorigné-sur-Dué, 72160, France",
+  "link": "https://guide.michelin.com/fr/fr/pays-de-la-loire/thorign-sur-du/restaurant/le-saint-jacques/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nFricassée d'escargots du Maine, émulsion d'ail doux\nSaint-pierre, émulsion de bouillabaisse, barrette d’aïoli\nSoupe de fraise, sorbet, mousse vanille\n\n",
+  "num": "0243899550"
+},{
+  "name": "Le Grand St-Benoît",
+  "location": "7 place St-André, Saint-Benoît-sur-Loire, 45730, France",
+  "link": "https://guide.michelin.com/fr/fr/centre-val-de-loire/saint-benot-sur-loire/restaurant/le-grand-st-benoit/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nFinger de saumon fumé, céleri rémoulade\nDos de cabillaud, vinaigrette au pistou\nComme un vacherin, banane, citron vert\n\n",
+  "num": "0238351192"
+},{
+  "name": "La Table d'Antan",
+  "location": "38 avenue de la Grande-Charmille-du-Parc, Sainte-Geneviève-des-Bois, 91700, France",
+  "link": "https://guide.michelin.com/fr/fr/ile-de-france/sainte-genevive-des-bois/restaurant/la-table-d-antan/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nFoie gras de canard aux épices, gelée au porto\nPetit gigot de canard mijoté aux bolets et girolles, gratin de La Table d'Antan\nCrème et mousse au chocolat, biscuit craquant aux noisettes\n\n",
+  "num": "0160157153"
+},{
+  "name": "Au Chapeau Rouge",
+  "location": "49 place du Général-de-Gaulle, Chinon, 37500, France",
+  "link": "https://guide.michelin.com/fr/fr/centre-val-de-loire/chinon/restaurant/au-chapeau-rouge/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nMarbré de bœuf et foie gras, vinaigrette à l’estragon\nBallottine de poissons de Loire, coulis d’écrevisses\nGanaches chocolatées à la menthe glaciale\n\n",
+  "num": "0247980808"
+},{
+  "name": "Ô Saveurs",
+  "location": "38 rue Georges-Clemenceau, Falaise, 14700, France",
+  "link": "https://guide.michelin.com/fr/fr/normandie/falaise/restaurant/o-saveurs11135/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nCannelloni de saumon et haddock\nDos de cabillaud bien épais, céleri et \"kasha\" façon risotto\nTarte citron, yuzu et kalamansi en sphère cassante\n\n",
+  "num": "0231901314"
+},{
+  "name": "Le Bistrot",
+  "location": "5 chemin de l'Étang-du-Moulin, Bonnétage, 25210, France",
+  "link": "https://guide.michelin.com/fr/fr/bourgogne-franche-comte/bonntage/restaurant/le-bistrot378013/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nCroûte forestière\nFilets de truite meunière, écrasé de pomme de terre, sauce au vin d'Arbois\nEclair au chocolat, glace sapinette\n\n",
+  "num": "0381689278"
+},{
+  "name": "L'Artimon",
+  "location": "17 rue Jean-du-Plessis, La Bernerie-en-Retz, 44760, France",
+  "link": "https://guide.michelin.com/fr/fr/pays-de-la-loire/la-bernerie-en-retz/restaurant/l-artimon/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nMerlu rôti, petits pois et sorbet roquette\nLotte au four, risotto à la truffe d’été\nFine nougatine framboises, ganache chocolat blanc\n\n",
+  "num": "0251746160"
+},{
+  "name": "Maison Gambert",
+  "location": "2 rue de la Petite-Pirelle, Tain-l'Hermitage, 26600, France",
+  "link": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/tain-l-hermitage/restaurant/maison-gambert/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nVelouté de carottes à la citronnelle et crabe mariné\nSuprême de pintadeau, pommes de terre grenaille et sauce porto\nSoupe de pêches, sorbet de thé Earl Grey\n\n",
+  "num": "0475091985"
+},{
+  "name": "La Bergerie",
+  "location": "Allée Pech Marie, Aragon, 11600, France",
+  "link": "https://guide.michelin.com/fr/fr/occitanie/aragon/restaurant/la-bergerie64657/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nCompression de canard et foie gras\nMatelote de lotte\nDôme chocolat\n\n",
+  "num": "0468261065"
+},{
+  "name": "La Toupine",
+  "location": "27 avenue Pasteur, Brive-la-Gaillarde, 19100, France",
+  "link": "https://guide.michelin.com/fr/fr/nouvelle-aquitaine/brive-la-gaillarde/restaurant/la-toupine/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nFricassée d'encornets, chorizettes et ratatouille froide\nPavé de noix de veau grillé, grenailles et poireaux rôtis\nArlette crème vanille et fruits rouges\n\n",
+  "num": "0555237158"
+},{
+  "name": "France et Fuchsias",
+  "location": "20 rue du Maréchal-Foch, Saint-Vaast-la-Hougue, 50550, France",
+  "link": "https://guide.michelin.com/fr/fr/normandie/saint-vaast-la-hougue/restaurant/france-et-fuchsias/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nCromesquis d'épaule d'agneau, crème de fèves au yaourt et menthe\nPavé de lieu infusé à la betterave, combava, blette, poivre Timut\nLa fraise et la coriandre, opaline à la confiture de lait et sablé\n\n",
+  "num": "0233544041"
+},{
+  "name": "Côté Bistro",
+  "location": "25 rue de Chambord, Montlivault, 41350, France",
+  "link": "https://guide.michelin.com/fr/fr/centre-val-de-loire/montlivault/restaurant/cote-bistro/",
+  "comfort": "Assez confortable",
+  "specialities": "\n\nEngagement pour une gastronomie durable\n\n\nInitiatives :\n\nproduits du jardin\n producteurs locaux\n\n\nSpécialités\n\nCarpe fumée, pomme de terre, artichaut, oseille\nVolaille, courgette, avoine et crème d'ail\nRiz au lait croustillant\n\n",
+  "num": "0254206230"
+},{
+  "name": "L'Embellie",
+  "location": "le Bourg, Sainte-Cécile, 71250, France",
+  "link": "https://guide.michelin.com/fr/fr/bourgogne-franche-comte/sainte-ccile/restaurant/l-embellie8305/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nFrites de tête de veau aux graines de moutarde, champignons et sauce gribiche\nPoulet aux écrevisses, légumes de saisons\nLe citron dans tous ses états\n\n",
+  "num": "0385508181"
+},{
+  "name": "Auberge de l'Île",
+  "location": "3 place Bouchard, L'Île-Bouchard, 37220, France",
+  "link": "https://guide.michelin.com/fr/fr/centre-val-de-loire/l-le-bouchard/restaurant/auberge-de-l-ile/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nMarbré de lapereau aux herbes, lentilles vertes et girolles en pickles\nMagret de canard laqué, la cuisse en parmentier\nCrémeux aux chocolat, glace café\n\n",
+  "num": "0247585107"
+},{
+  "name": "La Table",
+  "location": "1 traverse de Jas, Les Ribas, Tourtour, 83690, France",
+  "link": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/tourtour/restaurant/la-table63544/",
+  "comfort": "Assez confortable. Nos établissements de charme.",
+  "specialities": "\nSpécialités\n\nCaviar d'aubergine, lait coco et mesclun\nPiquillos farcis au boulgour, sauce aigre-douce\nMoelleux au chocolat, glace à l'huile d'olive\n\n",
+  "num": "0494705595"
+},{
+  "name": "Comptoir des Voyageurs",
+  "location": "Place de l'Église, Locronan, 29180, France",
+  "link": "https://guide.michelin.com/fr/fr/bretagne/locronan/restaurant/comptoir-des-voyageurs/",
+  "comfort": "Assez confortable",
+  "specialities": "\n\nEngagement pour une gastronomie durable\n\n\nInitiatives :\n\npêche durable (collaboration avec Ethic Ocean)\n produits locaux\n jardin aromatique\n\n\nSpécialités\n\nTruite de Plouigneau fumée, déclinaison de carottes, vinaigrette aux agrumes\nRetour de pêche, condiment aux algues et émulsion à la verveine citronnée\nMacaron à la rhubarbe, crème basilic et sorbet fraise\n\n",
+  "num": "0298917074"
+},{
+  "name": "Aromatic",
+  "location": "15 rue du Chariot-d'Or, Lyon, 69004, France",
+  "link": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/lyon/restaurant/aromatic/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nCuisine du marché\n\n",
+  "num": "0478237361"
+},{
+  "name": "Auberge de Ti-Coz",
+  "location": "4 Hent-Koz, Ty-Sanquer, 29000, France",
+  "link": "https://guide.michelin.com/fr/fr/bretagne/ty-sanquer/restaurant/auberge-de-ti-coz/",
+  "comfort": "Confortable. Nos établissements de charme.",
+  "specialities": "\nSpécialités\n\nConfit de lapereau, œuf parfait, crème de parmesan\nPoisson de pêche côtière de Loctudy, sarrasin, pommes et céleri\nProfiteroles au chocolat\n\n",
+  "num": "0298945002"
+},{
+  "name": "Auberge des Tilleuls",
+  "location": "8 place de l'Église, Messigny-et-Vantoux, 21380, France",
+  "link": "https://guide.michelin.com/fr/fr/bourgogne-franche-comte/messigny-et-vantoux/restaurant/auberge-des-tilleuls/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nTerrine de foies de volaille\nBœuf bourguignon de l'auberge\nMoelleux au chocolat\n\n",
+  "num": "0380354522"
+},{
+  "name": "Le Bistrot",
+  "location": "chemin des Imberts, route de Salernes, Lorgues, 83510, France",
+  "link": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/lorgues/restaurant/le-bistrot/",
+  "comfort": "Assez confortable",
+  "specialities": "\n\nEngagement pour une gastronomie durable\n\n\nInitiatives :\n\npotager et vaches sur le domaine\n\n\nSpécialités\n\nSalade caesar aux gambas\nDarne de saumon laquée aux saveurs d'Asie, wok de nouilles sautées\nMousse au chocolat, éclats de cacahouètes\n\n",
+  "num": "0494604351"
+},{
+  "name": "Voyages des sens",
+  "location": "33 rue Principale, Treffort, 01370, France",
+  "link": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/treffort/restaurant/voyages-des-sens/",
+  "comfort": "Confortable",
+  "specialities": "\n\nEngagement pour une gastronomie durable\n\n\nInitiatives :\n\nproduits en majorité bio et dans un rayon de 15 km\n déchets verts au compost et les restes pour nourrir des cochons\n\n\nSpécialités\n\nTruite marinée à la framboise, crème de chez nous et brioche tiède aux citrons confits\nSuprême de poulet de l’Ain, confit de pomme pont-neuf\nComme un vacherin aux fraises et herbes du jardin\n\n",
+  "num": "0474513994"
+},{
+  "name": "Ô Saveurs",
+  "location": "10 rue Jules-Ferry, Saint-Brieuc, 22000, France",
+  "link": "https://guide.michelin.com/fr/fr/bretagne/saint-brieuc/restaurant/o-saveurs186112/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nTruite de mer, gravlax de citron vert et fenouil\nLieu jaune, pesto d'ortie, spaghetti encre de seiche et légumes rôties\n« Melba Ô Saveurs»\n\n",
+  "num": "0296940534"
+},{
+  "name": "Les Flots",
+  "location": "52 boulevard de la Mer, Châtelaillon-Plage, 17340, France",
+  "link": "https://guide.michelin.com/fr/fr/nouvelle-aquitaine/chtelaillon-plage/restaurant/les-flots/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nMousseline de poisson blanc, vinaigrette aux coques et speck, émulsion coquillages\nDos de cabillaud, petit épeautre façon risotto, crème de panais\nBaba au rhum, crème légère vanillée\n\n",
+  "num": "0546562342"
+},{
+  "name": "Bistrot Gourmand",
+  "location": "Le Fornet, Val-d'Isère, 73150, France",
+  "link": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/val-d-isre/restaurant/bistrot-gourmand/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nSalade de tête de veau\nÉchine de cochon, pommes de terre et champignons\nCrème brûlée aux bourgeons de sapin\n\n",
+  "num": "0479002142"
+},{
+  "name": "La Fleur de Sel",
+  "location": "15 route du Portelin, Cevins, 73730, France",
+  "link": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/cevins/restaurant/la-fleur-de-sel121851/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nCarpaccio d’omble chevalier\nRognon de veau à la plancha, pommes de terre nouvelles et champignons\nCoulant chaud au chocolat\n\n",
+  "num": "0479374998"
+},{
+  "name": "Le Jardin",
+  "location": "16 rue de la Redoute, Haguenau, 67500, France",
+  "link": "https://guide.michelin.com/fr/fr/grand-est/haguenau/restaurant/le-jardin3646/",
+  "comfort": "Très confortable",
+  "specialities": "\nSpécialités\n\nTerrine de poulpe façon presskopf, crème dijonnaise et émulsion aux herbes\nPoisson selon arrivage, polenta aux tomates et jus au safran\nSoufflé glacé au Grand Marnier\n\n",
+  "num": "0388932939"
+},{
+  "name": "La Colombe",
+  "location": "663 route de Toulon, Hyères, 83400, France",
+  "link": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/hyres/restaurant/la-colombe/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nSalade de poulpe et seiche aux aromates\nDos de cabillaud, crème d’artichauts acidulée et émulsion de coquillages\nTarte au chocolat, framboises et craquelin aux amandes\n\n",
+  "num": "0494353516"
+},{
+  "name": "L'Escargot",
+  "location": "30 rue du Maréchal-Leclerc, Saumur, 49400, France",
+  "link": "https://guide.michelin.com/fr/fr/pays-de-la-loire/saumur/restaurant/l-escargot/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nEscargots aux trois beurres\nCarré d’agneau rôti et gratin dauphinois\nPain perdu de ma maman, glace caramel au beurre salé\n\n",
+  "num": "0241512088"
+},{
+  "name": "Ttotta",
+  "location": "Espace Ibarrondoan, Saint-Pée-sur-Nivelle, 64310, France",
+  "link": "https://guide.michelin.com/fr/fr/nouvelle-aquitaine/saint-pe-sur-nivelle/restaurant/ttotta/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nPiquillos farcis au maïs, gaspacho de concombre et olives\nÉpaule d’agneau confite, haricots tarbais et jambon de Bayonne\nParfait glacé à l’Izarra verte, gingembre confit et meringue à l‘anis vert\n\n",
+  "num": "0559470355"
+},{
+  "name": "La Forêt",
+  "location": "22 rue de Verdun, Senonches, 28250, France",
+  "link": "https://guide.michelin.com/fr/fr/centre-val-de-loire/senonches/restaurant/la-foret333279/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nL’œuf aux saveurs printanières\nBlanquette de veau sauce Albufera\nLa pomme verte et le céleri\n\n",
+  "num": "0237377850"
+},{
+  "name": "La Croix d'Or",
+  "location": "6 rue de la Herse, Le Pin-la-Garenne, 61400, France",
+  "link": "https://guide.michelin.com/fr/fr/normandie/le-pin-la-garenne/restaurant/la-croix-d-or5115/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nSaumon mariné à la vodka et épices en gravlax, mousse de radis noir\nQueue de bœuf confite en pastilla, légumes façon tian\nBrioche façon pain perdu à la crème d’amandes\n\n",
+  "num": "0233838033"
+},{
+  "name": "Au Bon Accueil",
+  "location": "14 rue de Monttessuy, Paris, 75007, France",
+  "link": "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/au-bon-accueil6011/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nPoulpe, écrasé de pomme de terre, aïoli\nCarré de porcelet rôti, lentilles vertes, romanesco et sauce à la moutarde\nÉclair, mascarpone et pêches compotées\n\n",
+  "num": "0147054611"
+},{
+  "name": "Hôtel de France",
+  "location": "1 rue Marx-Dormoy, Montmarault, 03390, France",
+  "link": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/montmarault/restaurant/hotel-de-france5012/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nTerrine de lapin au vieux marc de Bourgogne et caviar d'aubergine au cumin\nTruite comme un pot au feu\nLa verrine de saison\n\n",
+  "num": "0470076026"
+},{
+  "name": "Bistrot des Anges",
+  "location": "rue de l'Ouest, Le Cannet, 06110, France",
+  "link": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/le-cannet/restaurant/bistrot-des-anges/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nPissaladière aux anchois et calamars grillés\nDos de saumon à la plancha, riz citronnelle et pignons torréfiés\nLe chariot de douceurs\n\n",
+  "num": "0492181828"
+},{
+  "name": "La Pointe du Cap Coz",
+  "location": "1 Offre",
+  "link": "https://guide.michelin.com/fr/fr/bretagne/cap-coz/restaurant/la-pointe-du-cap-coz/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nBisque d’étrilles et moules de bouchot, espuma à la badiane\nFilet de colin aux tomates confites, frites de polenta\nSablé breton, crème vanille et caramel, glace lambig\n\n",
+  "num": "0298560163"
+},{
+  "name": "Le Vauban",
+  "location": "22 quai Caligny, Cherbourg-en-Cotentin, 50100, France",
+  "link": "https://guide.michelin.com/fr/fr/normandie/cherbourg-en-cotentin/restaurant/le-vauban/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nŒuf bio, petits pois, sot-l'y-laisse de poulet, chips de vitelotte\nMolécules de ris de veau, pépites de foie gras poêlé\nDéclinaison autour du chocolat\n\n",
+  "num": "0233431011"
+},{
+  "name": "La Table de Léo",
+  "location": "Le Bourg, Saint-Avit-Sénieur, 24440, France",
+  "link": "https://guide.michelin.com/fr/fr/nouvelle-aquitaine/saint-avit-snieur/restaurant/la-table-de-leo/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nFoie gras mi-cuit à la gelée de sangria\nMagret d'oie, polenta et déclinaison de carottes\nTiraminoix\n\n",
+  "num": "0553578915"
+},{
+  "name": "Au Fil des Saisons",
+  "location": "3 rue de la Libération, Étupes, 25460, France",
+  "link": "https://guide.michelin.com/fr/fr/bourgogne-franche-comte/tupes/restaurant/au-fil-des-saisons/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nCarpaccio de saumon d’Ecosse, vinaigrette yuzu\nDos de cabillaud rôti, risotto de légumes\nPomme reinette confite, caramel au lait et biscuit lorrain\n\n",
+  "num": "0381941712"
+},{
+  "name": "Chez Michel",
+  "location": "10 rue de Belzunce, Paris, 75010, France",
+  "link": "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/chez-michel/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nEmietté de tourteau des côtes bretonnes, avocat\nPintade, pommes de terre grenaille et champignons\nFigues caramélisées, glace vanille et spéculos\n\n",
+  "num": "0144530620"
+},{
+  "name": "Au Raisin d'Or",
+  "location": "1 rue de l'Église, Zimmerbach, 68230, France",
+  "link": "https://guide.michelin.com/fr/fr/grand-est/zimmerbach/restaurant/au-raisin-d-or/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nConsommé de bœuf, quenelles à la moelle\nBœuf gros sel, crudités et pommes de terre sautées\nVacherin glacé minute\n\n",
+  "num": "0389710569"
+},{
+  "name": "Le Colvert",
+  "location": "8 rue d'en Boyer, Saint-Lieux-lès-Lavaur, 81500, France",
+  "link": "https://guide.michelin.com/fr/fr/occitanie/saint-lieux-ls-lavaur/restaurant/le-colvert63526/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nCuisine du marché\n\n",
+  "num": "0563413247"
+},{
+  "name": "Le Bon Accueil",
+  "location": "1 rue de Laval, Richardménil, 54630, France",
+  "link": "https://guide.michelin.com/fr/fr/grand-est/richardmnil/restaurant/le-bon-accueil/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nCarpaccio de poulpe, chorizo ibérique, tomates multicolores\nSuprême de pintade, champignons de Paris, mûre et cœur de sucrine\nAbricot cuit à la verveine, crumble et glace yaourt\n\n",
+  "num": "0383256210"
+},{
+  "name": "L'Atelier",
+  "location": "2 rue Voltaire, Périgueux, 24000, France",
+  "link": "https://guide.michelin.com/fr/fr/nouvelle-aquitaine/prigueux/restaurant/l-atelier1185075/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nBouillon de concombre frappé à la menthe et chèvre frais de la ferme\nMagret de canard, aubergine fumée à la braise et jus au vinaigre de banyuls\nSorbet fraise à la crème d’Isigny, meringue et sarrasin grillé\n\n",
+  "num": "0553045671"
+},{
+  "name": "Au Bon Accueil",
+  "location": "23 place St-Michel, Juvigny-sous-Andaine, 61140, France",
+  "link": "https://guide.michelin.com/fr/fr/normandie/juvigny-sous-andaine/restaurant/au-bon-accueil3941/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nTartare de dorade, basilic, eau de pastèque\nRumsteck, haricots, ail fumé\nAbricot mi-confit, colza et verveine\n\n",
+  "num": "0233381004"
+},{
+  "name": "Cheval Blanc",
+  "location": "1 rue de Bisel, Feldbach, 68640, France",
+  "link": "https://guide.michelin.com/fr/fr/grand-est/feldbach/restaurant/cheval-blanc/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nFeuilleté d’escargots aux chanterelles\nRognons de veau au porto\nÎle flottante\n\n",
+  "num": "0389258186"
+},{
+  "name": "Auberge des Deux Magots",
+  "location": "1 place du Bouffay, La Roche-Bernard, 56130, France",
+  "link": "https://guide.michelin.com/fr/fr/bretagne/la-roche-bernard/restaurant/auberge-des-deux-magots/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nSaint-pierre à la plancha, crème de girolles\nPigeonneau de Mesquer, cromesquis et pastilla parfumés au kari-gosse\nVacherin pistache et fruits rouges\n\n",
+  "num": "0299906075"
+},{
+  "name": "Côté Saveurs",
+  "location": "Place Louis Fontanges, Villefranche-de-Rouergue, 12200, France",
+  "link": "https://guide.michelin.com/fr/fr/occitanie/villefranche-de-rouergue/restaurant/cote-saveurs262844/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nTomates en plusieurs textures, gelée à la coriandre, crème au brebis\nBallottine de pintade rôtie, confit d'oignons et pommes de terre nouvelles\nSphère de chocolat blanc, cœur fruits rouges, glace verveine citronnée\n\n",
+  "num": "0565658364"
+},{
+  "name": "L'Épicurien",
+  "location": "42 place Jean-Jaurès, Albi, 81000, France",
+  "link": "https://guide.michelin.com/fr/fr/occitanie/albi/restaurant/l-epicurien66531/",
+  "comfort": "Confortable",
+  "specialities": "\n\nEngagement pour une gastronomie durable\n\n\nInitiatives :\n\nproduits locaux le plus possible\n menu végétarien tous les mercredis\n restes de pain pour les poules\n\n\nSpécialités\n\nTartare de saumon, concombres marinés\nQuasi de veau, caponata aubergines-salsiccia, polenta crémeuse\nDame blanche, tuile chocolat, glace vanille-amande\n\n",
+  "num": "0563531070"
+},{
+  "name": "Auberge Pyrénées Cévennes",
+  "location": "106 rue de la Folie-Méricourt, Paris, 75011, France",
+  "link": "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/auberge-pyrenees-cevennes/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nPâté en croûte\nBlanquette de veau à l'ancienne\nSoufflé caramel\n\n",
+  "num": "0143573378"
+},{
+  "name": "La Fleur de Sel",
+  "location": "17 rue Haute, Honfleur, 14600, France",
+  "link": "https://guide.michelin.com/fr/fr/normandie/honfleur/restaurant/la-fleur-de-sel3731/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nTartare de bœuf aux huîtres\nSelle d'agneau en croûte de basilic, légumes de saison\nTube croustillant aux agrumes et framboises, crème verveine citron, sorbet framboise-poivron rouge\n\n",
+  "num": "0231890192"
+},{
+  "name": "La Merenda",
+  "location": "4 rue Raoul-Bosio, Nice, 06000, France",
+  "link": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/nice/restaurant/la-merenda/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nSardines farcies\nDaube provençale\nTourte aux blettes\n\n",
+  "num": "www.lamerenda.net"
+},{
+  "name": "Le Rabelais",
+  "location": "8 rue Auguste-Fabre, Saint-Chamas, 13250, France",
+  "link": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/saint-chamas/restaurant/le-rabelais/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nVelouté de haricots blancs, cèpes et lard de Colonatta\nLotte, serrano, confit d’olive noire et jus de viande\nTarte chaude aux pêches et nectarines, crème glacée yaourt-groseille\n\n",
+  "num": "0490508440"
+},{
+  "name": "Au Cheval Blanc",
+  "location": "3 Offres",
+  "link": "https://guide.michelin.com/fr/fr/grand-est/graufthal/restaurant/au-cheval-blanc6937/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nTerrine de pot au feu au raifort\nLasagnes de sandre et saumon à l’oseille\nBlanc-manger coco et fruit de la passion\n\n",
+  "num": "0388701711"
+},{
+  "name": "Le Réciproque",
+  "location": "14 rue Ferdinand-Flocon, Paris, 75018, France",
+  "link": "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/le-reciproque/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nCrème de champignons de Paris, œuf parfait et poêlée forestière\nPoitrine de cochon, piperade au piment d’Espelette et sauce barbecue maison\nCrémeux au chocolat, biscuit sablé, sorbet coco\n\n",
+  "num": "0986378077"
+},{
+  "name": "Le Quai",
+  "location": "2 Offres",
+  "link": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/tain-l-hermitage/restaurant/le-quai/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nGravlax de saumon au citron confit, salade de quinori et houmous\nÉpaule de porcelet rôtie 12 heures, jus caramélisé et caviar d’aubergine\nPain perdu à la pogne de Romans, confiture d’orange et glace au chocolat\n\n",
+  "num": "0475070590"
+},{
+  "name": "Le Lancelot",
+  "location": "12 rue des Déportés, Chilleurs-aux-Bois, 45170, France",
+  "link": "https://guide.michelin.com/fr/fr/centre-val-de-loire/chilleurs-aux-bois/restaurant/le-lancelot/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nŒuf parfait, fricassée d'escargots, champignons et lentilles à la crème forestière\nMoelleux de pintade à la gâtinaise, gratin solognot\nPithiviers fondant en millefeuille de fraises\n\n",
+  "num": "0238329115"
+},{
+  "name": "Auberge de la Roche",
+  "location": "10 Route Nationale 23, Saint-Jean-de-Linières, 49070, France",
+  "link": "https://guide.michelin.com/fr/fr/pays-de-la-loire/saint-jean-de-linires/restaurant/auberge-de-la-roche/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nCrémeux de haricots blancs et flan de foie gras\nLa fameuse tranche de lard caramélisée et ses légumes de saison\nCoque chocolat, fruits rouges, glace vanille\n\n",
+  "num": "0241397221"
+},{
+  "name": "Le Terminus",
+  "location": "avenue de la Gare, Cruzy, 34310, France",
+  "link": "https://guide.michelin.com/fr/fr/occitanie/cruzy/restaurant/le-terminus/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nCroustillant de pied de cochon désossé\nÉpaule d'agneau confite au citron\nBaba chantilly à la fine du Languedoc\n\n",
+  "num": "0467897126"
+},{
+  "name": "Auberge du Moulin",
+  "location": "36 rue des Moulins-du-Tot, Clères, 76690, France",
+  "link": "https://guide.michelin.com/fr/fr/normandie/clres/restaurant/auberge-du-moulin/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nVelouté de cresson\nPoisson du marché et légumes de saison\nSoupe de chocolat et madeleines tièdes\n\n",
+  "num": "0235336276"
+},{
+  "name": "Le St-Georges",
+  "location": "4 boulevard Maréchal-Foch, Palavas-les-Flots, 34250, France",
+  "link": "https://guide.michelin.com/fr/fr/occitanie/palavas-les-flots/restaurant/le-st-georges431652/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nTarte fine de boudin, crème à l’huile de truffe\nDos de merlu, poulpe, courgette et aïoli\nBaba au rhum servi tiède, crème mascarpone vanillée\n\n",
+  "num": "0467683138"
+},{
+  "name": "L'Arôme",
+  "location": "9 rue des 3 Rois, Marseille, 13006, France",
+  "link": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/marseille/restaurant/l-arome508665/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nCromesquis de veau\nLieu noir, fleur de courgette farcie, jus corsé\nEntremets chocolat\n\n",
+  "num": "0491428880"
+},{
+  "name": "Coteaux et Fourchettes",
+  "location": "Route de Violès, Cairanne, 84290, France",
+  "link": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/cairanne/restaurant/coteaux-et-fourchettes/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nFoie gras de canard cuit au sel, chutney d'ananas et gingembre\nPigeon de la Lance rôti, la cuisse confite, jus corsé\nDéclinaison autour du chocolat\n\n",
+  "num": "0490663599"
+},{
+  "name": "Auberge des Chenêts",
+  "location": "10 route Nationale 6, Valloux, 89200, France",
+  "link": "https://guide.michelin.com/fr/fr/bourgogne-franche-comte/valloux/restaurant/auberge-des-chenets/",
+  "comfort": "Confortable. Nos établissements de charme.",
+  "specialities": "\nSpécialités\n\nŒuf meurette\nFilet de bœuf aux morilles\nSoufflé chaud au Grand Marnier\n\n",
+  "num": "0386342334"
+},{
+  "name": "Zen",
+  "location": "8 rue de l'Échelle, Paris, 75001, France",
+  "link": "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/zen232528/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nGyoza\nChirashi\nFraisier à la japonaise\n\n",
+  "num": "0142619399"
+},{
+  "name": "Philip",
+  "location": "chemin de la Fontaine, Fontaine-de-Vaucluse, 84800, France",
+  "link": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/fontaine-de-vaucluse/restaurant/philip/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nVariations autour de l'asperge\nDéclinaison de truite\nVerrine citron meringué\n\n",
+  "num": "0975592863"
+},{
+  "name": "La Clé des Champs",
+  "location": "place des Frères-Caudron, Favières, 80120, France",
+  "link": "https://guide.michelin.com/fr/fr/hauts-de-france/favires/restaurant/la-cle-des-champs/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nMaquereau mariné à la betterave, fromage frais ail-fines herbes, pickles de légumes\nPoitrine de veau confite, caponata et jus \"grande caravane\"\nLa noisette et le citron\n\n",
+  "num": "0322278800"
+},{
+  "name": "À la 12",
+  "location": "6 place de la République, Delme, 57590, France",
+  "link": "https://guide.michelin.com/fr/fr/grand-est/delme/restaurant/a-la-12/",
+  "comfort": "Confortable",
+  "specialities": "\n\nEngagement pour une gastronomie durable\n\n\nInitiatives :\n\nproduits locaux\n carte courte en fonction du marché\n menu végétal une fois par mois\n\n\nSpécialités\n\nDéclinaison d'aubergines\nAgneau rôti, courgettes grillées, olive noire et basilic\nMyrtilles sauvages, crème glacée au safran et fruits confits\n\n",
+  "num": "0387013018"
+},{
+  "name": "La Griotte",
+  "location": "3 rue des Cerisiers, Saules, 25580, France",
+  "link": "https://guide.michelin.com/fr/fr/bourgogne-franche-comte/saules/restaurant/la-griotte/",
+  "comfort": "Assez confortable. Nos établissements de charme.",
+  "specialities": "\nSpécialités\n\nPoêlée d'escargots aux asperges\nSuprême de pintadeau aux morilles\nSoupe de griottes et mousse glacée au kirsch\n\n",
+  "num": "0381571771"
+},{
+  "name": "Colbert",
+  "location": "127 route de Mittelhausbergen, Strasbourg, 67200, France",
+  "link": "https://guide.michelin.com/fr/fr/grand-est/strasbourg/restaurant/colbert449239/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nTruite blanche fumée, déclinaison de betteraves et glace raifort\nCochon de lait : poitrine confite, carré braisé, boudin et chou au barbecue\nMirabelles, verveine, glace à la bière\n\n",
+  "num": "0388225216"
+},{
+  "name": "La Maison",
+  "location": "1 rue du 14-Juillet, Cognac, 16100, France",
+  "link": "https://guide.michelin.com/fr/fr/nouvelle-aquitaine/cognac/restaurant/la-maison/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nEscabèche de dorade, gaufre au parmesan et émulsion saumon fumé\nJarret de veau basse température sur l’idée d’un osso-buco\nFramboise, céleri, chiboust et glace framboise\n\n",
+  "num": "0545352177"
+},{
+  "name": "Pomze",
+  "location": "109 boulevard Haussmann, Paris, 75008, France",
+  "link": "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/pomze/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nCroustillant de pommes et rémoulade de crevettes roses\nJoues de veau braisées au cidre du Pays d’Auge et choucroute de navet\nTarte Tatin et crème fraîche de Normandie\n\n",
+  "num": "0142656583"
+},{
+  "name": "L'Éden",
+  "location": "7 rue Henri-Fouchard, Houlgate, 14510, France",
+  "link": "https://guide.michelin.com/fr/fr/normandie/houlgate/restaurant/l-eden/",
+  "comfort": "Confortable",
+  "specialities": "\n\nEngagement pour une gastronomie durable\n\n\nInitiatives :\n\nproduits locaux (légumes en agriculture raisonnée)\n 20 références de vins bio\n\n\nSpécialités\n\nQuinoa rouge à la coriandre, saumon fumé et émulsion aux agrumes\nFilet de merlu, charlottes et vinaigrette tiède aux tomates confites et olives\nPannacotta chocolat blanc, pêche-verveine et sablé\n\n",
+  "num": "0231248437"
+},{
+  "name": "La Part des Anges",
+  "location": "7 rue d'Empare, Castres, 81100, France",
+  "link": "https://guide.michelin.com/fr/fr/occitanie/castres/restaurant/la-part-des-anges454760/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nCuisine du marché\n\n",
+  "num": "0563516525"
+},{
+  "name": "La Chaumière",
+  "location": "96 avenue Emmanuel-Brousse, Font-Romeu, 66120, France",
+  "link": "https://guide.michelin.com/fr/fr/occitanie/font-romeu/restaurant/la-chaumiere38762/",
+  "comfort": "Confortable",
+  "specialities": "\n\nEngagement pour une gastronomie durable\n\n\nInitiatives :\n\nproduits locaux et bio si possible\n produits d'entretien éco\n\n\nSpécialités\n\nŒuf de poule, sobressada, persil racine et crumble d'olives noires\nÉpaule d'agneau cuite longuement et terminée à la braise\nBonbons crousti-coulants au chocolat\n\n",
+  "num": "0468300440"
+},{
+  "name": "Histoire Ancienne",
+  "location": "20 rue Royale, Calais, 62100, France",
+  "link": "https://guide.michelin.com/fr/fr/hauts-de-france/calais/restaurant/histoire-ancienne/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nSoupe à l’oignon, crémeux de foie gras et croûtons aux noix\nJoue de veau aux girolles\nProfiteroles et sauce chocolat\n\n",
+  "num": "0321341120"
+},{
+  "name": "Au Colombier",
+  "location": "126 allée Colombier, Anse, 69480, France",
+  "link": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/anse/restaurant/au-colombier/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nSalade de haricots verts et cœur de sucrine, tomates et dès de saumon mariné, sauce caesar\nLapin farci à la basquaise, nouilles aux pleurotes et crème au romarin\nCappuccino de riz au lait à la vanille et chocolat blanc\n\n",
+  "num": "0474670468"
+},{
+  "name": "Bird",
+  "location": "38 rue Charles-de-Gaulle, Yerres, 91330, France",
+  "link": "https://guide.michelin.com/fr/fr/ile-de-france/yerres/restaurant/bird/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nCeviche de dorade, lait de coco\nLapin rôti, houmous de brocolis au sésame\nAutour du chocolat\n\n",
+  "num": "0179932881"
+},{
+  "name": "L'Arum",
+  "location": "21 avenue Joseph-Clotis, Hyères, 83400, France",
+  "link": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/hyres/restaurant/l-arum/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nMini tomates, chantilly à la crème de burrata, bouillon rhum ambré-vanille\nEspadon snacké, caviar d'aubergine et sauce vierge\nPêche jaune en bavarois, coulis et crémeux, biscuit spéculos\n\n",
+  "num": "0483994204"
+},{
+  "name": "Manoir de la Pommeraie",
+  "location": "L'Auvère, Vire, 14500, France",
+  "link": "https://guide.michelin.com/fr/fr/normandie/vire/restaurant/manoir-de-la-pommeraie/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nFoie gras mi-cuit, gelée cassis et betterave\nRumsteak rôti, aubergine grillée et jus à l'olive noire\nDélice chocolat et praliné, crème à la menthe, glace stracciatella\n\n",
+  "num": "0231680771"
+},{
+  "name": "Les Épices Curiens",
+  "location": "3b place de la Gare, Écouviez, 55600, France",
+  "link": "https://guide.michelin.com/fr/fr/grand-est/couviez/restaurant/les-epices-curiens/",
+  "comfort": "Assez confortable",
+  "specialities": "\n\nEngagement pour une gastronomie durable\n\n\nInitiatives :\n\nmembre d'une coopérative agricole\n produits locaux\n bio\n\n\nSpécialités\n\nFocaccia de jambon de Bayonne, chèvre frais et betteraves\nEntrecôte de veau aux baies de genièvre, purée aux cèpes\nBrownies au chocolat, kalamansi et riz soufflé\n\n",
+  "num": "0329868458"
+},{
+  "name": "Mee",
+  "location": "5 rue d'Argenteuil, Paris, 75001, France",
+  "link": "https://guide.michelin.com/fr/fr/ile-de-france/paris/restaurant/mee483240/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nCrêpe à la ciboule\nBibimbap\nPunch gingembre-cannelle, morceaux de poire nashi\n\n",
+  "num": "0142861185"
+},{
+  "name": "Le Dauphin",
+  "location": "29 rue Gemare, Caen, 14000, France",
+  "link": "https://guide.michelin.com/fr/fr/normandie/caen/restaurant/le-dauphin10467/",
+  "comfort": "Très confortable",
+  "specialities": "\nSpécialités\n\nSmoothie végétal aux huîtres et moules, pain à l’encre de seiche\nPoisson choisi à la criée du matin\nDouceur à la fraise et rhubarbe, biscuit façon madeleine\n\n",
+  "num": "0231862226"
+},{
+  "name": "La Maison Carrier",
+  "location": "44 route du Bouchet, Chamonix-Mont-Blanc, 74400, France",
+  "link": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/chamonix-mont-blanc/restaurant/la-maison-carrier/",
+  "comfort": "Confortable. Nos établissements de charme.",
+  "specialities": "\nSpécialités\n\nBoudin noir, poire, lard et oignons\nQuenelles de brochet aux écrevisses, risotto piémontais\nLe \"Vré\" de toutes les tartes de Grand-Mère\n\n",
+  "num": "0450530003"
+},{
+  "name": "Les Capucins",
+  "location": "20 faubourg de Montbéliard, Belfort, 90000, France",
+  "link": "https://guide.michelin.com/fr/fr/bourgogne-franche-comte/belfort/restaurant/les-capucins/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nBetterave rouge, crème de cancoillotte, caviar de hareng fumé et framboises marinées\nTruite de Delle, beurre blanc au pontarlier, brownie aux épinards\nRocher coco, ganache mangue, caramel passion\n\n",
+  "num": "0384280460"
+},{
+  "name": "La Table d'Aimé",
+  "location": "4 Rue Francisco Ferrer, Rivesaltes, 66600, France",
+  "link": "https://guide.michelin.com/fr/fr/occitanie/rivesaltes/restaurant/la-table-d-aime/",
+  "comfort": "Assez confortable. Nos établissements de charme.",
+  "specialities": "\nSpécialités\n\nEscalivade de légumes\nFilet de bœuf, réduction de vin rouge, sucrine snackée et grenailles\nParfait au muscat de Rivesaltes\n\n",
+  "num": "0468343577"
+},{
+  "name": "L'Ô à la Bouche",
+  "location": "56 Allées Fénelon, Cahors, 46000, France",
+  "link": "https://guide.michelin.com/fr/fr/occitanie/cahors/restaurant/l-o-a-la-bouche/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nPressé de courgette et gésiers de canard, tempura de courgette\nFilet de merlu, purée de pois chiches et tomate confite\nPêche, crème légère au thym et sablé breton\n\n",
+  "num": "0565356569"
+},{
+  "name": "Le Cottage",
+  "location": "616 chemin du Marais, Chonas-l'Amballan, 38121, France",
+  "link": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/chonas-l-amballan/restaurant/le-cottage/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nCarpaccio de bœuf au parmesan, anchois et câpres\nVolaille fermière aux morilles, gratin dauphinois\nBaba au rhum, chantilly vanillée\n\n",
+  "num": "0474588328"
+},{
+  "name": "Vidal",
+  "location": "Place du Marché, Saint-Julien-Chapteuil, 43260, France",
+  "link": "https://guide.michelin.com/fr/fr/auvergne-rhone-alpes/saint-julien-chapteuil/restaurant/vidal/",
+  "comfort": "Très confortable",
+  "specialities": "\nSpécialités\n\nPâté en croûte d'Aurélien\nVolaille fermière, ravioles aux légumes et émulsion de thym\nCueillette gourmande fraises, reine-des-prés, petits pois\n\n",
+  "num": "0471087050"
+},{
+  "name": "La Balade des Saveurs",
+  "location": "3 quai Jean-Jaurès, L'Isle-sur-la-Sorgue, 84800, France",
+  "link": "https://guide.michelin.com/fr/fr/provence-alpes-cote-dazur/l-isle-sur-la-sorgue/restaurant/la-balade-des-saveurs/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nFraîcheur de maquereau, gaspacho de tomates\nSecreto de porc ibérique, semoule, sauce aux fruits secs\nMaxi macaron framboise-combava\n\n",
+  "num": "0490952785"
+},{
+  "name": "Ar Maen Hir",
+  "location": "15 bis rue du Prieuré, Locronan, 29180, France",
+  "link": "https://guide.michelin.com/fr/fr/bretagne/locronan/restaurant/ar-maen-hir/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nCromesquis de canard au cidre breton\nFilet de canette, petits pois, oignons au xérès\nRocher croustillant, chocolat et praliné\n\n",
+  "num": "0256101837"
+},{
+  "name": "Le Jardin d'Alice",
+  "location": "1098 route de Lillers, Busnes, 62350, France",
+  "link": "https://guide.michelin.com/fr/fr/hauts-de-france/busnes/restaurant/le-jardin-d-alice/",
+  "comfort": "Confortable. Nos établissements de charme.",
+  "specialities": "\nSpécialités\n\nBeignet de maroilles, salade d'endives\nDodine de volaille de Licques, fondue d'échalotes de Busnes\nParfait glacé chicorée façon liégeois\n\n",
+  "num": "0321688888"
+},{
+  "name": "La Belle Étoile",
+  "location": "Le Bourg, La Roque-Gageac, 24250, France",
+  "link": "https://guide.michelin.com/fr/fr/nouvelle-aquitaine/la-roque-gageac/restaurant/la-belle-etoile/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nFines tranches de lotte marinées, citron, pomme et concombre\nCabillaud rôti, embeurrée de choux vert, crémeux de coquillages\nPerles du Japon, fraises et sorbet noix de coco\n\n",
+  "num": "0553295144"
+},{
+  "name": "Le Tire Bouchon",
+  "location": "45 rue Jules-le-Grand, Lorient, 56100, France",
+  "link": "https://guide.michelin.com/fr/fr/bretagne/lorient/restaurant/le-tire-bouchon/",
+  "comfort": "Confortable",
+  "specialities": "\nSpécialités\n\nCrémeux de pommes de terre iodé et fumé\nMerlan aux petits légumes de saison\nMi-cuit, mi-fondant au chocolat\n\n",
+  "num": "0297847192"
+},{
+  "name": "Le Bastion",
+  "location": "50 boulevard de la Promenade, Lagrasse, 11220, France",
+  "link": "https://guide.michelin.com/fr/fr/occitanie/lagrasse/restaurant/le-bastion/",
+  "comfort": "Assez confortable",
+  "specialities": "\nSpécialités\n\nBisque de crabe vert de Méditerranée, foie blond de volaille\nNotre version d'un aïgo boulido au merlu\nVacherin au citron, huile d'olive-basilic et sorbet de citron\n\n",
+  "num": "0468120251"
+}]

@@ -1,0 +1,27 @@
+
+body {
+    font-family: "open_sans", sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: normal;
+    color: #191919;
+    margin: 40px 100px 40px 100px;
+    background-color: #f2f2f2;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.specialities {
+	white-space: pre-wrap;
+	white-space: pre-line;
+}
+
+.restaurant {
+	background-color: white;
+	margin: 30px 300px 30px 300px;
+	padding: 30px 100px 30px 100px;
+	border: 1px solid black;
+}
